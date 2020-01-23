@@ -35,7 +35,7 @@ if( (fruit == "bananas") && ( color == "yellow")) {
     document.write( "Bananas are not that color, they are yellow.");
 }
 
-tester
+i hope tis works
 
 
 
